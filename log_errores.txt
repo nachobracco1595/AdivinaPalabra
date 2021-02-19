@@ -1,0 +1,27 @@
+ERRORES
+--------------------------------------------------------------------------------------------
+Problemas con la base de datos sqlite3 cuando baje el repositorio master.
+error: AtributeError: 'NoneType' object has no attribute 'cursor' 
+fecha error: 16/11/2020
+(SOLUCIONADO).
+
+Solución: Problema en el funcionamiento de la libreria sqlite3 en la pc donde se ejecutaba. 
+--------------------------------------------------------------------------------------------
+El algoritmo que desordena las palabras aleatoriamente las dejaba igual(sin desordenar).
+fecha error: 18/11/2020
+(SOLUCIONADO).
+
+solución: Se agregó un while que verifica que la palabra se desordena y no queda igual.
+--------------------------------------------------------------------------------------------
+El algoritmo que se encarga de seleccionar palabras al azar a veces selecciona la misma
+dos veces seguidas, o mas.
+fecha error: 18/11/2020
+(SIN SOLUCIONAR)
+--------------------------------------------------------------------------------------------
+El algoritmo del score que se encargaba de berificar cual era el mayor, fallaba cuando habia
+mas de 3 scores en la base de datos
+fecha error: 10/11/2020
+(SOLUCIONADO) 
+
+solución: Se agrego LIMIT 3 en la consulta a la BD
+--------------------------------------------------------------------------------------------
