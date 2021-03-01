@@ -43,3 +43,5 @@ HITOS
 02/12 - Por lo menos 3 Criterios de Aceptación Funcionando
 09/12 - Todo el Software Debería estar funcionando
 Antes de cada hito realizar una etapa de Pruebas y Correciones para no arrastrar errores a futuro.
+
+AGREGO LINEA DE PRUEBA AL FINAL...!!!
