@@ -1,12 +1,13 @@
 <br>
-  <h1 align="center"
-    UTNFRLR - AdivinaPalabra
+  <h1 align="center">
+    UTNFRLR
+    AdivinaPalabra
   </h1>
 <br>
 
 <h1 align="center">
-  **Proyecto Final**
-  **Adivina Palabras**
+  Proyecto Final
+  Adivina Palabras
 </h1>
 
 ## ÍNDICE
@@ -40,9 +41,9 @@
 - Fecha de Recuperatorio 16/12/2020
 
 <h2 name="hitos">HITOS</h2>
-- 11/11 Protipado de las Pantallas (Subir archivos .ui) <Protitipos_Pantalla> Fallado (no se subio los archivos a tiempo) 
-- 18/11 Por lo menos 1 Criterio de Aceptación Funcionando.
-- 25/11 Por lo menos 2 Criterios de Aceptación Funcionando.
-- 02/12 Por lo menos 3 Criterios de Aceptación Funcionando.
-- 09/12 Todo el Software Debería estar funcionando.
+- <p>11/11 Protipado de las Pantallas (Subir archivos .ui) <Protitipos_Pantalla> Fallado (no se subio los archivos a tiempo)</p>
+- <p>18/11 Por lo menos 1 Criterio de Aceptación Funcionando.</p>
+- <p>25/11 Por lo menos 2 Criterios de Aceptación Funcionando.</p>
+- <p>02/12 Por lo menos 3 Criterios de Aceptación Funcionando.</p>
+- <p>09/12 Todo el Software Debería estar funcionando.</p>
 Antes de cada hito realizar una etapa de Pruebas y Correciones para no arrastrar errores a futuro.
